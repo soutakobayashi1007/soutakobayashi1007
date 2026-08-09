@@ -1,21 +1,23 @@
-# Souta Kobayashi（小林蒼太）
+# 小林走太 / Souta Kobayashi
 
-金融の現場で働くエンジニア。**統計的検証の規律**と**業務自動化**が武器です。
-Finance-sector engineer in Japan: operations automation by day,
-statistically disciplined trading research by night.
+金融機関の現場で働くエンジニアです。仕事では業務の自動化を、
+個人ではトレーディング戦略の統計検証をやっています。
 
-## 何をしている人か
-- 💼 金融機関の現場（AML・与信計数）で SAS / PowerShell / VBA による業務自動化
-- 📊 個人プロジェクトとして、事前登録・順列検定・多重比較補正を備えた
-  トレーディング研究基盤を構築・運用（Python / Linux / 11年×25億ティックのデータレイク）
-- 🚪 検証した仮説 40+、うち95%を自分で棄却 — 「棄却できる仕組み」が主な生産物です
-- ✍️ 方法論を Zenn に書いています → https://zenn.dev/soutakobayashi
+## 経歴
 
-## いま積んでいるもの
-- 簿記2級 →（次）証券アナリスト（CMA）
-- 自作トレーディング戦略の第三者検証済みトラックレコード
+- SES企業所属。銀行のAML部門で制裁リスト更新の半自動化を担当したあと、
+  いまは消費者金融の保証事業で計数分析と業務自動化をしています（SAS / PowerShell / VBA）
+- 個人プロジェクトとして、仮説の事前登録・順列検定・多重比較補正を組み込んだ
+  検証基盤をPythonで作り、Linuxサーバーで運用しています。
+  これまで40本ほどの仮説を検定して、残ったのは2本でした
+- その前はスペインの大学に4年いました（機械工学）。スペイン語が話せます
 
-## その他の制作
-マルチエージェントのゲーム開発基盤、音楽など。
+## 公開しているもの
 
-🌐 ポートフォリオ: https://soutakobayashi1007.github.io
+- [research-discipline](https://github.com/soutakobayashi1007/research-discipline) — 検証まわりの仕組みを汎用化したライブラリ
+- 記事: https://zenn.dev/sotakobayashi
+- ポートフォリオ: https://soutakobayashi1007.github.io
+
+## 勉強中
+
+簿記2級。終わったら証券アナリスト。
