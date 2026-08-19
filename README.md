@@ -35,6 +35,7 @@
 
 - ポートフォリオ: https://soutakobayashi1007.github.io
 - [research-discipline](https://github.com/soutakobayashi1007/research-discipline) — 検証まわりの仕組みを汎用化したライブラリ
+- 記事: https://zenn.dev/sotakobayashi
 
 ## 勉強中
 
